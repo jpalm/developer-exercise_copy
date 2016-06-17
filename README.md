@@ -1,5 +1,5 @@
 ## Jaguar Design Studio
-## Web Application Developer Exercise
+## Web Application Developer Exercise - completed
 
 ### Introduction
 
